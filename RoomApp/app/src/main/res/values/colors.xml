@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="azul_cinza">#00264d</color>
+    <color name="abobora">#D2652A</color>
+    <color name="azul">#2D7A99</color>
+    <color name ="quase_preto">#10242C</color>
+</resources>
